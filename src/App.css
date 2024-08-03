@@ -36,3 +36,37 @@
     transform: rotate(360deg);
   }
 }
+
+
+.category-wrapper{
+  display:flex;
+  justify-content: space-evenly;
+}
+.category{
+  border:2px solid black;
+  padding:30px
+}
+
+
+.dropdown-wrapper{
+  display:flex;
+  justify-content: space-between;
+  width:80%
+
+}
+
+.add-product-button{
+  padding:10px;
+  
+}
+
+.edit-wrapper{
+padding:50px;
+border:2px solid black;
+}
+.hide{
+  display:none
+}
+.show{
+  
+}
